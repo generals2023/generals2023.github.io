@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title><![CDATA[Hello World]]></title>
+    <url>%2F2019%2F09%2F11%2Fhello-world%2F</url>
+    <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment Code Block:We support many programming languages, use the auto complete function to see the entire list. 12345678910111213141516var s = "JavaScript syntax highlighting";alert(s);function $initHighlight(block, cls) &#123; try &#123; if (cls.search(/\bno\-highlight\b/) != -1) return process(block, true, 0x0F) + ' class=""'; &#125; catch (e) &#123; /* handle exception */ &#125; for (var i = 0 / 2; i &lt; classes.length; i++) &#123; if (checkCondition(classes[i]) === undefined) return /\d+[\s/]/g; &#125;&#125; {％include_code [title] [lang：language] path / to / file％} 語法突出顯示12345var foo = function (bar) &#123; return bar++;&#125;;console.log(foo(5)); Blockquote Tags: Using the syntax below to specifiy your name, time and color to vary the blockquotes.[name=ChengHan Wu] [time=Sun, Jun 28, 2015 9:59 PM] [color=#907bf7] Even support the nest blockquotes![name=ChengHan Wu] [time=Sun, Jun 28, 2015 10:00 PM] [color=red] YouTube 連接 水平線 中心對齊的列 Option Description data path to data files to supply the data that will be passed into templates. engine engine to be used for processing templates. Handlebars is the default. ext extension to be used for dest files. 鏈接link textlink with titleAutoconverted link https://github.com/nodeca/pica]]></content>
+      <categories>
+        <category>生活</category>
+      </categories>
+      <tags>
+        <tag>標籤A</tag>
+        <tag>標籤B</tag>
+      </tags>
+  </entry>
+</search>
